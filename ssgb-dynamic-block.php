@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: SoyebSalar Dynamic Block
- * Description: SoyebSalar Dynamic Block is a custom Gutenberg block for WordPress that allows you to create dynamic content including an image, title, subtitle, and button. Customize the block with settings for image size and alignment, title and subtitle font styles, button size, and alignment.
+ * Plugin Name: SoyebSalar Gutenberg Dynamic Block
+ * Description: SoyebSalar Gutenberg Dynamic Block is a custom Gutenberg block for WordPress that allows you to create dynamic content including an image, title, subtitle, and button. Customize the block with settings for image size and alignment, title and subtitle font styles, button size, and alignment.
  * Version: 1.0.0
  * Author: Soyeb Salar
  * License: GPL-2.0-or-later

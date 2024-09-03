@@ -1,4 +1,4 @@
-=== SoyebSalar Dynamic Block ===
+=== SoyebSalar Gutenberg Dynamic Block ===
 Contributors: Soyeb Salar
 Donate link: https://soyebsalar.in/donate/
 Tags: gutenberg, block, dynamic content, image, title, subtitle, button

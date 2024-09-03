@@ -1,0 +1,21 @@
+.ssgb-dynamic-block img {
+    max-width: 100%;
+    height: auto;
+}
+
+.ssgb-dynamic-block h2 {
+    margin: 20px 0 10px;
+}
+
+.ssgb-dynamic-block h4 {
+    margin: 10px 0 20px;
+}
+
+.ssgb-dynamic-block .ssgb-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0073aa;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}

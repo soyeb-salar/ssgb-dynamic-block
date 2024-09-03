@@ -1,0 +1,16 @@
+{
+    "name": "ssgb-dynamic-block",
+    "version": "1.0.0",
+    "description": "A custom Gutenberg block for dynamic content including an image, title, subtitle, and button.",
+    "main": "index.js",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start",
+        "test": "wp-scripts test"
+    },
+    "author": "Soyeb Salar",
+    "license": "GPL-2.0-or-later",
+    "devDependencies": {
+        "@wordpress/scripts": "^25.0.0"
+    }
+}
